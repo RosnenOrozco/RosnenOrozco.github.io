@@ -1,11 +1,24 @@
-# Voici la page personnelle de Rosnen Orozco
-## Étudiante en MATIM de l'Université de Genève
+![Our logo](/images/fanPage_elements-02.jpg)
+# Page d'accueil de Planeta Lingua
+## Agence de services linguistiques
+### *"Solutions linguistiques pour une communication efficace dans un monde interconnecté."* 
+----
 
-Voici la liste des cours que je prends ce semestre: 
-1. Traduction audiovisuelle
-2. Traduction automatique II
-3. Terminotique
-4. Corpus pour la traduction
-5. Technologies de l'Information et de la Communication (**TICs**)
+**Nos valeurs**
+
+<p style="text-align: center;">Qualité, éfficacité, fiabilité</p>
+
+**Nos solutions liguistiques:** 
+>- Traduction audiovisuelle
+>- Traductions spécialisées
+>- Traductions officielles
+>- Localisation de produits web
+>- Interprétation de conférences
+>- Cours de langues
+>- Cours de conversation
+>- Correction de style
+
+
+
 
 
