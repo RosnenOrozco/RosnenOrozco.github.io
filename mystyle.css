@@ -1,0 +1,83 @@
+.title
+{
+background-color:#de9210;
+justify-content: space-between;
+}
+.title
+{
+  flex-grow:8;  
+}
+h1
+{
+text-align:center;
+color:#141310;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 50px;
+}
+h2
+{
+text-align:center;
+color:#141310;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.div2
+{
+background: url("images/fondo de letras.jpg") repeat;
+padding:15px;
+opacity: 0.5;
+}
+.langues
+{
+text-align: center;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: bold;
+color: #000000;
+;
+font-size: 24px;
+}
+p
+{
+color:#221407;
+font-size:24px;
+text-align:left;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: bold;
+}
+li
+{
+color:#575655;
+font-size:24px;
+text-align:left;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.flex-container
+{
+display:flex;
+flex-direction:row;
+flex-wrap: wrap;
+justify-content: space-between;
+flex-grow: 500%;
+border: 1px solid;
+border-color:#de9210;
+}
+.div3
+{
+padding-left: 50px;
+}
+.div4
+{
+    background-color:#de9210;
+    padding-left: 50px;
+    padding-right: 100px;
+}
+img
+{
+border: 10px solid;
+border-color:#de9210;
+}
+.logo
+{
+    background-color:#de9210;   
+}
+
+
