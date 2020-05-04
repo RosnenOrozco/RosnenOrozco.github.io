@@ -6,7 +6,7 @@
 
 **Nos valeurs**
 
-<p style="text-align: center;">Qualité, éfficacité, fiabilité</p>
+Qualité, éfficacité, fiabilité
 
 **Nos solutions liguistiques:** 
 >- Traduction audiovisuelle
