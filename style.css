@@ -1,6 +1,6 @@
 .title
 {
-background-color:#ffbb00;
+background-color:#caa956;
 justify-content: space-between;
 }
 .title
@@ -10,7 +10,7 @@ justify-content: space-between;
 h1
 {
 text-align:center;
-color:#141310;
+color:#503e41;
 font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-size: 50px;
 }
@@ -58,7 +58,7 @@ flex-wrap: wrap;
 justify-content: space-between;
 flex-grow: 500%;
 border: 1px solid;
-border-color:#de9210;
+border-color:#ffbb00;
 }
 .div3
 {
@@ -66,18 +66,18 @@ padding-left: 50px;
 }
 .div4
 {
-    background-color:#de9210;
+    background-color:#ffbb00;
     padding-left: 50px;
     padding-right: 100px;
 }
 img
 {
 border: 10px solid;
-border-color:#de9210;
+border-color:#ffbb00;
 }
 .logo
 {
-    background-color:#0055ff;   
+    background-color:#ffbb00;   
 }
 
 
