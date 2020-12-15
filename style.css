@@ -136,10 +136,8 @@ font-family:'Soffia Light',Helvetica,Arial,'DejaVu Sans','Liberation Sans',Frees
 border: 1px solid;
 border-color:#ffbb00;
 }
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
+.clearfix {
+  overflow: auto;
 }
 .div3
 { 
@@ -157,13 +155,13 @@ padding-right: 100px;
 }
 img
 {
+float: left; 
 border: 10px solid;
 border-color:#ffbb00;
 }
 .logo
 {
-width: 20%;
-float: left;  
+width: 20%; 
 background-color:#ffbb00;  
 }
 
