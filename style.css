@@ -133,7 +133,7 @@ font-family:'Soffia Light',Helvetica,Arial,'DejaVu Sans','Liberation Sans',Frees
 .flex-container
 {
 display:flex;
-flex-direction:column;
+flex-direction:row;
 flex-wrap: wrap;
 justify-content: space-between;
 flex-grow: 500%;
