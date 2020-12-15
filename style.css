@@ -89,14 +89,14 @@ justify-content: space-between;
 }
 h1
 {
-text-align:left;
+text-align:center;
 color:#503e41;
 font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-size: 50px;
 }
 h2
 {
-text-align:left;
+text-align:center;
 color:#503e41;
 font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -133,7 +133,7 @@ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 .flex-container
 {
 display:flex;
-flex-direction:row;
+flex-direction:column;
 flex-wrap: wrap;
 justify-content: space-between;
 flex-grow: 500%;
