@@ -85,6 +85,8 @@
 
 .title
 {
+width: 80%;
+float: left;
 background-color:#ffbb00;
 }
 h1
@@ -131,20 +133,22 @@ font-family:'Soffia Light',Helvetica,Arial,'DejaVu Sans','Liberation Sans',Frees
 }
 .row
 {
-width: 50%;
-float: left;
 border: 1px solid;
 border-color:#ffbb00;
 }
 .div3
 { 
+width: 50%;
+float: left;
 padding-left: 50px;
 }
 .div4
 {   
- background-color:#ffbb00;
- padding-left: 50px;
- padding-right: 100px;
+width: 50%;
+float: left;
+background-color:#ffbb00;
+padding-left: 50px;
+padding-right: 100px;
 }
 img
 {
@@ -153,7 +157,9 @@ border-color:#ffbb00;
 }
 .logo
 {
-    background-color:#ffbb00; 
+width: 20%;
+float: left;  
+  background-color:#ffbb00; 
     float: left;
 }
 
