@@ -39,7 +39,7 @@
   color: #423325;
   padding: 14px 16px;
   background-color: inherit;
-  font-family: inherit; /* Important for vertical align on mobile phones */
+  font-family: 'Soffia Light',Helvetica,Arial,'DejaVu Sans','Liberation Sans',Freesans,sans-serif; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
 }
 
@@ -91,7 +91,7 @@ h1
 {
 text-align:center;
 color:#503e41;
-font-family:'Soffia Light',Helvetica,Arial,'DejaVu Sans','Liberation Sans',Freesans,sans-serif;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
 font-size: 50px;
 }
 h2
