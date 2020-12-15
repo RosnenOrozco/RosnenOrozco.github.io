@@ -131,19 +131,17 @@ font-family:'Soffia Light',Helvetica,Arial,'DejaVu Sans','Liberation Sans',Frees
 }
 .row
 {
+width: 50%;
+float: left;
 border: 1px solid;
 border-color:#ffbb00;
 }
 .div3
-{
-width: 50%;
-float: left; 
+{ 
 padding-left: 50px;
 }
 .div4
-{
- width: 50%;
- float: left;   
+{   
  background-color:#ffbb00;
  padding-left: 50px;
  padding-right: 100px;
