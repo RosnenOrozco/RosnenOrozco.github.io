@@ -86,11 +86,6 @@
 .title
 {
 background-color:#ffbb00;
-justify-content: space-between;
-}
-.title
-{
-  flex-grow:8;  
 }
 h1
 {
