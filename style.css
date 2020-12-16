@@ -1,6 +1,6 @@
 /* This makes sure that the padding and border are included in the total width and height of all the elements in the page.*/
-/**{
-  box-sizing: border-box;*/
+*{
+  box-sizing: border-box;
 }
 
 .topnav {
@@ -88,7 +88,6 @@
 .title
 {
 width: 85%;
-float: right;
 background-color:#ffbb00;
 }
 h1
@@ -138,24 +137,25 @@ font-family:'Soffia Light',Helvetica,Arial,'DejaVu Sans','Liberation Sans',Frees
 border: 1px solid;
 border-color:#ffbb00;
 }
-.clearfix {
-  overflow: auto;
-/*.row::after {
+/*.clearfix {
+  overflow: auto;*/
+.row::after {
   content: "";
   clear: both;
   display: table;
-}*/
+}
+.column
+{
+  float: left;
 }
 .div3
 { 
 width: 50%;
-float: left;
 padding-left: 50px;
 }
 .div4
 {   
 width: 50%;
-float: left;
 background-color:#ffbb00;
 padding-left: 50px;
 padding-right: 100px;
@@ -163,7 +163,6 @@ padding-right: 100px;
 .logo
 {
 width: 15%; 
-float: left;
 background-color:#ffbb00; 
 border: 10px solid;
 border-color:#ffbb00;
