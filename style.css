@@ -1,6 +1,6 @@
 /* This makes sure that the padding and border are included in the total width and height of all the elements in the page.*/
-*{
-  box-sizing: border-box;
+/**{
+  box-sizing: border-box;*/
 }
 
 .topnav {
