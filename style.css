@@ -6,7 +6,7 @@
 .topnav {
   background-color: #f6c47b;
   overflow: hidden;
-  border: 10px solid;
+  border: 1px solid;
   border-color:#ffbb00;
 }
 
@@ -15,6 +15,8 @@
   float: left;
   color: #423325;
   text-align: center;
+  border: 1px solid;
+  border-color:#ffbb00;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
@@ -41,7 +43,8 @@
 /* Dropdown button */
 .dropdown .dropbtn {
   font-size: 17px;
-  border: none;
+  border: 1px solid;
+  border-color:#ffbb00;
   outline: none;
   color: #423325;
   padding: 14px 16px;
@@ -87,7 +90,7 @@
 
 .title
 {
-width: 85%;
+width: 83%;
 background-color:#ffbb00;
 }
 h1
@@ -162,7 +165,7 @@ padding-right: 100px;
 }
 .logo
 {
-width: 15%; 
+width: 17%; 
 background-color:#ffbb00; 
 border: 10px solid;
 border-color:#ffbb00;
