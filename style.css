@@ -86,7 +86,7 @@
 .title
 {
 width: 85%;
-float: left;
+float: right;
 background-color:#ffbb00;
 }
 h1
@@ -158,16 +158,13 @@ background-color:#ffbb00;
 padding-left: 50px;
 padding-right: 100px;
 }
-img
-{ 
-border: 10px solid;
-border-color:#ffbb00;
-}
 .logo
 {
 width: 15%; 
 float: left;
-background-color:#ffbb00;  
+background-color:#ffbb00; 
+border: 10px solid;
+border-color:#ffbb00;
 }
 
 
